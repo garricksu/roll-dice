@@ -3,4 +3,5 @@ A simple HTML/CSS/Javascript project that rolls a dice randomly
 
 
 
-![ScreenShot](https://raw.github.com/garricksu/{roll-dice/master/dice-roll-screenshot.png)
+
+![Alt text](dice-roll-screenshot.png?raw=true "Project Screenshot")
