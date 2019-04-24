@@ -1,6 +1,9 @@
 # roll-dice
 A simple HTML/CSS/Javascript project that rolls a dice randomly
 
+A basic project, great for getting a feel of Javascript for beginner!
+
+When the "roll dice" button is clicked, it will return a random dice. Get creative with animations and sound effects!
 
 
 
