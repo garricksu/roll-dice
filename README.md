@@ -1,4 +1,4 @@
-# roll-dice
+# Roll-Dice
 A simple HTML/CSS/Javascript project that rolls a dice randomly
 
 A basic project, great for getting a feel of Javascript for beginner!
